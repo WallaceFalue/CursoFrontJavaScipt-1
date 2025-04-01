@@ -1,0 +1,1 @@
+console.log("Hello, World!"); console.log("primeiro código em js");6
